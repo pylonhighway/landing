@@ -1,3 +1,17 @@
-.card-body-1: {
-    background-color: red;
+:root {
+    padding: 5px;
+    margin: 10%;
+    background-color: AliceBlue;
+}
+.row row-cols-1 row-cols-md-3 g-4 {
+    background-color: Lavender;
+}
+h1 {
+    text-align: center;
+    color: cornflowerblue;
+    padding: 10px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.nav justify-content-center {
+    padding: 10px;
 }
